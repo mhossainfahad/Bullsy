@@ -1,0 +1,447 @@
+/*
+=> Project Name: Bullsy
+=> Designed By: PremiumCoding.com
+=> Developed By: Mahmud Hossain
+=> GitHub: https://github.com/mhossainfahad
+=> Contact: mahmudhossain.fahad@gmail.com 
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+/* top_header */
+
+.top_header {
+    padding: 10px 0 5px 0;
+}
+
+.first_sec_first_row {
+    color: #463f3a;
+}
+
+.one_one {}
+
+.one_one p {
+    font-weight: 600;
+}
+
+.one_two {
+    font-weight: 600;
+}
+
+.one_two ul li a {}
+
+.one_two ul li a:hover {}
+
+/* nav_header */
+
+.nav_header {
+    background-color: #f5f6f1;
+    padding: 35px 0 20px 0;
+}
+
+.two_one {}
+
+.two_one img {}
+
+.two_two {
+    font-size: 18px;
+    color: #463f3a;
+    font-weight: 400;
+    padding: 15px 0 0 0;
+}
+
+.two_three p {
+    color: #463f3a;
+    font-weight: 600;
+    margin: 4px 0 5px 0;
+}
+
+.two_three h4 {
+    color: #463f3a;
+    font-weight: 600;
+    margin: -4px 0 0 0;
+}
+
+.two_four img {
+    width: 60%;
+    margin: 0 0 0 15px;
+}
+
+/* banner_section */
+
+.banner_section {
+    padding: 35px 0 20px 0;
+}
+
+.third_sec_first_row {
+
+}
+
+.three_one {
+    background-image: url(../img/slider_image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    content: "";
+    padding: 40px 0;
+}
+
+.three_two {
+   
+}
+
+.three_two ul li {
+    font-size: 60px;
+    color: #fff;
+    font-weight: 900;
+}
+
+.three_three {}
+
+.three_three img {
+    position: absolute;
+    left: 81px;
+    top: 90px;
+}
+
+/* service_section */
+
+.service_section {
+    padding: 25px 0 30px 0;
+}
+
+.four_one_one h1,
+.four_one_two h1,
+.four_one_three h1{
+    font-size: 35px;
+    color: #463f3a;
+}
+
+.four_one_one p,
+.four_one_two p,
+.four_one_three p{
+    color: #463f3a;
+    font-size: 17px; 
+}
+
+.four_one_one p span,
+.four_one_two span,
+.four_one_three span{
+    color: #463f3a;
+    font-size: 
+}
+
+.four_one_one .thumbnail,
+.four_one_two .thumbnail,
+.four_one_three .thumbnail{
+    border: none;
+    background-color: #f5f6f1;
+}
+
+.four_one_one h1,
+.four_one_two h1,
+.four_one_three h1 {
+    color: #463f3a;
+}
+
+.four_one_one p,
+.four_one_two p,
+.four_one_three p {
+    color: #444;
+    font-weight: 500;
+}
+
+.four_one_one p span,
+.four_one_two p span,
+.four_one_three p span {
+    color: #f55856;
+    font-weight: 700;
+}
+
+/* category_section */
+
+.category_section {
+	background-color: #f5f6f1;
+    padding: 35px 0 40px 0;
+}
+
+.five_one_one img,
+.five_one_three img{
+    width: 100%;
+}
+
+.fifth_sec_first_row {
+    padding: 0 0 25px 0;
+}
+
+.five_two_one .thumbnail,
+.five_two_two .thumbnail,
+.five_two_three .thumbnail,
+.seven_two_one .thumbnail{
+    border: none;
+}
+
+.five_two_one h1 {
+    color: #463f3a;
+    font-weight: 600;
+}
+
+.five_two_one p {
+    color: #444;
+    font-size: 17px;
+}
+
+.five_two_one a {
+    text-decoration: none;
+    color: #f55856;
+    font-size: 18px;
+}
+
+/* arrival_section & product_section */
+
+.arrival_section {
+	padding: 35px 0 40px 0;
+}
+
+.six_one_one img,
+.six_one_three img{
+    width: 100%;
+}
+
+.sixth_sec_first_row,
+.seventh_sec_first_row {
+    padding: 0 0 25px 0;
+}
+
+.six_two_one p,
+.seven_two_one p {
+    font-weight: 800;
+    font-size: 18px
+}
+
+.six_two_one h4,
+.seven_two_one h4 {
+    font-weight: 500;
+}
+
+.six_two_one a,
+.seven_two_one a {
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    background-color: #463f3a;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.six_two_one a:hover {
+    background-color: #fff;
+    color: #f55856;
+    transition: all 0.5s;
+}
+
+.seven_two_one a:hover {
+    background-color: #f5f6f1;
+    color: #f55856;
+    transition: all 0.5s;
+}
+
+.product_section {
+	background-color: #f5f6f1;
+    padding: 35px 0 40px 0;
+}
+
+.seven_one_one img,
+.seven_one_three img{
+    width: 100%;
+}
+
+.six_one_two h1,
+.seven_one_two h1{
+	color: #463f3a;
+}
+
+/* blog_section */
+
+.blog_section {
+    padding: 35px 0 40px 0;
+}
+
+.eighth_sec_first_row {
+    padding: 0 0 25px 0;
+}
+
+.eight_one_one img,
+.eight_one_three img{
+    width: 99%;
+}
+
+.thick {
+	padding: 38px 0 0 0;
+}
+
+.thin {
+	margin: -19px 0 0 0;
+}
+
+.eight_one_two h1 {
+	color: #463f3a;
+}
+
+.eight_two_one h4 {
+}
+
+.eight_two_one p {
+	margin: 0;
+    color: #444;
+    padding: 5px 0;
+}
+
+.eight_two_one a {
+	color: #f55856;
+    font-size: 17px
+}
+
+/* quote_section */
+
+.quote_section {
+    background-color: #f5f6f1;
+}
+
+.ninth_sec_first_row {
+    padding: 30px 0 25px 0;
+}
+
+.nine_one h1 {
+    color: #463f3a;
+    margin: 0;
+    font-size: 37px;
+    font-weight: bold;
+}
+
+.nine_one p {
+    color: #666;
+}
+
+.nine_one p a {
+     text-decoration: none;
+    color: #f55856;
+    font-size: 16px
+}
+
+/* top_footer */
+
+.top_footer {
+    background-color: #463f3a;
+}
+
+.tenth_sec_first_row {
+    padding: 40px 0 35px 0;
+}
+
+.ten_one_two ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.ten_one_two ul li a:hover {
+    color: grey;
+}
+
+.ten_one_two p {
+    color: #fff;
+}
+
+.ten_one_two p span {
+    color: #f55856;
+    letter-spacing: 1px;
+}
+
+.ten_one_three {
+    padding: 10px 0 0 0; 
+}
+
+.ten_one_three img {
+    padding: 15px;
+    background: #121314;
+}
+
+/* bot_footer */
+
+.eleventh_sec_first_row {
+    padding: 10px 0 5px 0;
+}
+
+.eleven_one_one {
+    font-size: 18px;
+    padding: 2px 0 0 0;
+}
+
+.eleven_one_one ul li a{
+    color: #463f3a;
+    margin: 0 5px 0 0;
+}
+
+.rss:hover {
+	color: #E15A00;
+    transition: all 0.5s;
+}
+
+.flickr:hover {
+	color: #FF0084;
+    transition: all 0.5s;
+}
+
+.fbook:hover {
+	color: #3A579B;
+    transition: all 0.5s;
+}
+
+.twit:hover {
+	color: #00BBF4;
+    transition: all 0.5s;
+}
+
+.drib:hover {
+	color: #CE3770;
+    transition: all 0.5s;
+}
+
+.eleven_one_two p a {
+    text-decoration: none;
+    color: #f55856;
+    font-size: 18px
+}
+
+/* Custom CSS */
+
+.for_slash {
+    color: #f55856;
+    font-weight: 900;
+}
+
+.no_border {
+    border: none;
+    background-color: #f5f6f1;
+}
+
+.over_hid {
+    overflow: hidden;
+}
+
+.white_space {
+	white-space: pre-line;
+}
+
+.no_gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
